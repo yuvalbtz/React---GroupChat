@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+https://github.com/yuvalbtz/React---GroupChat/issues/1#issue-702455629
+
 ## Available Scripts
 
 In the project directory, you can run:
