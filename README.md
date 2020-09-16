@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-https://github.com/yuvalbtz/React---GroupChat/issues/1#issue-702455629
+![ChatApp - React](https://user-images.githubusercontent.com/64732709/93294667-dd4ac580-f7f3-11ea-949a-14de69b75db7.JPG)
 
 ## Available Scripts
 
